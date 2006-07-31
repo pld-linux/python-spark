@@ -8,7 +8,7 @@ Release:	1
 License:	GPL
 Group:		Libraries/Python
 Source0:	http://pages.cpsc.ucalgary.ca/~aycock/spark/%{module}-%{version}.tar.gz
-# Source0-md5:	6c056b261782c51f53ceccbf86c08749
+# Source0-md5:	28c4c3b1031a6a4e4c4bd42726d22b65
 #Patch0:		%{name}-lib64.patch
 URL:		http://pages.cpsc.ucalgary.ca/~aycock/spark/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
