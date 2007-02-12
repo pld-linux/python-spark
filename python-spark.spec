@@ -2,7 +2,7 @@
 %define 	module	spark
 
 Summary:	Scanning, Parsing, and Rewriting Kit
-Summary(pl.UTF-8):   Narzędzia do skanowania, analizowania i przepisowania
+Summary(pl.UTF-8):	Narzędzia do skanowania, analizowania i przepisowania
 Name:		python-%{module}
 Version:	0.6.1
 Release:	2
