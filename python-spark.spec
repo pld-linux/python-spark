@@ -2,7 +2,7 @@
 %define 	module	spark
 
 Summary:	Scanning, Parsing, and Rewriting Kit
-Summary(pl):	Narzêdzia do skanowania, analizowania i przepisowania
+Summary(pl.UTF-8):   NarzÄ™dzia do skanowania, analizowania i przepisowania
 Name:		python-%{module}
 Version:	0.6.1
 Release:	2
@@ -17,10 +17,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 SPARK stands for the Scanning, Parsing, and Rewriting Kit. It formerly
 had no name, and was referred to as the "little language framework."
 
-%description -l pl
-SPARK (Scanning, Parsing And Rewriting Kit) to zestaw narzêdzi do
-skanowania, analizowania i przepisywania. Poprzednio nie mia³ nazwy, a
-pisano o nim jako o "ma³ym szkielecie jêzyka" ("little language
+%description -l pl.UTF-8
+SPARK (Scanning, Parsing And Rewriting Kit) to zestaw narzÄ™dzi do
+skanowania, analizowania i przepisywania. Poprzednio nie miaÅ‚ nazwy, a
+pisano o nim jako o "maÅ‚ym szkielecie jÄ™zyka" ("little language
 framework").
 
 %prep
