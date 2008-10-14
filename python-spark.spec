@@ -5,7 +5,7 @@ Summary:	Scanning, Parsing, and Rewriting Kit
 Summary(pl.UTF-8):	Narzędzia do skanowania, analizowania i przepisowania
 Name:		python-%{module}
 Version:	0.6.1
-Release:	4
+Release:	5
 License:	GPL
 Group:		Libraries/Python
 Source0:	http://pages.cpsc.ucalgary.ca/~aycock/spark/%{module}-%{version}.tar.gz
